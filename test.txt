@@ -1,0 +1,6 @@
+var x = +prompt(enter a number);
+var y = +prompt(enter a number);
+var z = +prompt(enter a number);
+a = x+y+z;
+alert(a);
+
